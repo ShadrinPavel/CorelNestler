@@ -1,0 +1,2 @@
+#define THEME_BG RGB(225, 225, 225)
+#define THEME_BTN RGB(120, 120, 120)
